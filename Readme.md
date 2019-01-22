@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Bright Color](https://up.htmlacademy.ru/htmlcss/24/user/616459).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Чепулис](https://up.htmlacademy.ru/htmlcss/24/user/240237)
 
 ---
 
